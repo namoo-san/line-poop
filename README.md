@@ -1,4 +1,16 @@
-# line_poop
-LINE通知にうんこを送る
+# 📖 LINE - Poop
+
+## Lern LINE Notify API
+
+[🌍 Official Page](https://notify-bot.line.me/ja/)
+
+### Required
+
+- Python3
+- requests
+
+### Send to LINE
 
 💩
+
+done 😀
