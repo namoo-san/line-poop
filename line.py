@@ -1,7 +1,7 @@
 import requests
 
 def line(me):
-    line_notify_token = 'TOKEN'
+    line_notify_token = 'YOUR_TOKEN'
     line_notify_api = 'https://notify-api.line.me/api/notify'
     message = '\n' + me
     payload = {'message': message}
